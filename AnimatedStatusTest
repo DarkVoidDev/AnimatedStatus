@@ -1,21 +1,21 @@
-//META{"name":"AnimatedStatus","source":"https://raw.githubusercontent.com/toluschr/BetterDiscord-Animated-Status/master/animated-status.plugin.js","website":"https://github.com/toluschr/BetterDiscord-Animated-Status"}*//
+//META{"name":"AnimatedStatusTest","source":"https://raw.githubusercontent.com/VoidDevelopers/AnimatedStatus/master/AnimatedStatusTest","website":"https://github.com/toluschr/BetterDiscord-Animated-Status"}*//
 
 class AnimatedStatus {
 	/* BD functions */
 	getName () {
-		return "AnimatedStatus";
+		return "AnimatedStatusTest";
 	}
 
 	getVersion () {
-		return "0.11.0";
+		return "69420";
 	}
 
 	getAuthor () {
-		return "toluschr";
+		return "Dark";
 	}
 
 	getDescription () {
-		return "Animate your Discord status";
+		return "This is a test document to rotate/change your status automatically ok have fun.";
 	}
 
 	setData (key, value) {
