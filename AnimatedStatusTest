@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatusTest","source":"https://raw.githubusercontent.com/VoidDevelopers/AnimatedStatus/master/AnimatedStatusTest","website":"https://github.com/VoidDevelopers/AnimatedStatus"}*//
+//META{"name":"AnimatedStatusTest","source":"https://raw.githubusercontent.com/DarkVoidDev/AnimatedStatus/master/AnimatedStatusTest","website":"https://github.com/VoidDevelopers/AnimatedStatus"}*//
 
 class AnimatedStatus {
 	/* BD functions */
@@ -11,7 +11,7 @@ class AnimatedStatus {
 	}
 
 	getAuthor () {
-		return "Dark";
+		return "Dark#8379";
 	}
 
 	getDescription () {
